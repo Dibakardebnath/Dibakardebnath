@@ -1,13 +1,12 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"  alt="Coding" width="100%"height="500"></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Hey!+I'm+Dibakar+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+</div>
 
-<h2 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,I'm <a href="https://github.com/Dibakardebnath" target="_blank" rel="no opener no-referrer"> 
-    Dibakar Debnath</a>.
-</h2>
+<p align="center"><img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif"  alt="Coding" width="100%"height="500"></p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=500&height=50">
 </p>
-
+<br/>
 <h3 align="center">Passionate MERN Full Stack Developer. Expert in MongoDB, Express.js, React, and Node.js. Skilled in frontend and backend development, creating robust and scalable web applications. Committed to delivering exceptional user experiences through innovative solutions. Seeking new opportunities to contribute and enhance skills.</h3>
 
 <!-- new file -->
